@@ -1,0 +1,22 @@
+#title {
+  font-family: sans-serif;
+  color: #228b22;
+  text-align: center;
+}
+
+#snake {
+  width:50px;
+  height: 50px;
+  background:#228b22 ;
+}
+
+#container {
+  margin-right:500px;
+  margin-left:500px;
+  border: solid 1px;
+  border-color: black;
+  background:#66cd00;
+  width:500px;
+  height:500px;
+  position: absolute;
+}
